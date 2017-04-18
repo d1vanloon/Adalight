@@ -22,7 +22,7 @@
     <ProjectGuid>{7E70921F-7587-4AA3-A867-97904ADCBA93}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>AdaLight</RootNamespace>
-    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
